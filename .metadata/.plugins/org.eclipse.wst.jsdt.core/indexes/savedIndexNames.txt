@@ -1,5 +1,1 @@
-INDEX VERSION 1.4+E:\RealTime\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1301579277.index
-3435648363.index
-3740398231.index
-1370668539.index
+INDEX VERSION 1.4+E:\TeamLead\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
